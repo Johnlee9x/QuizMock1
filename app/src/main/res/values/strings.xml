@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizGame Mock1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="account"> Do you have any accounts?<font><u><i>Sign Up</i></u></font> </string>
+    <string name="forgot_password"><u>I forgot my password</u></string>
+    <string name="time_over">Time over</string>
+</resources>
